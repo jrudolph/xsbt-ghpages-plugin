@@ -1,10 +1,10 @@
 # xsbt-ghpages-plugin #
 
-The github pages plugin for SBT provides support for auto-generating a project website and pushing to github pages.   Out of the box is will publish your scaladoc APIs to github pages.
+The github pages plugin for SBT provides support for auto-generating a project website and pushing to github pages.   Out of the box it will publish your scaladoc APIs to github pages.
 
 ## Creating ghpages branch ##
 
-To use this pluign, you must first create a ghpages branch on github.  To do so:
+To use this plugin, you must first create a ghpages branch on github.  To do so:
 
         $ cd /path/to/tmpdirectory
         $ git clone {your project}
